@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(0, 151, 144, 0.226);
+}
+h1 {
+    background-color: rgb(255, 0, 0);
+}
+p{
+background-color: rgb(7, 216, 253);
+}
+.messagE{
+    background-color: rgb(7, 253, 40);
+}
+
+#mijzelf {
+    /* id selector; selecteert <... id="lnk-login"> */
+    background-color: rgb(254, 255, 254); text-decoration: underline;
+  }
+
+

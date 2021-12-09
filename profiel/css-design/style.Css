@@ -1,0 +1,18 @@
+h1 {
+text-align: center;background-color: rgb(151, 0, 30);
+}
+.kleur {
+    background-color: chocolate;
+}
+div.kleur {
+    background-color: rgb(255, 81, 0);
+    border:5px dotted green;
+}
+p {
+   border:5px dotted red;
+   padding: 5px;
+}
+
+p + p{
+    margin-top: 20px;
+}
