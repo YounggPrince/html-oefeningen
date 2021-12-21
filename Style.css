@@ -1,6 +1,7 @@
 body{
     background-color: darkgray;
 }
-ahover{
-    µback
+a:hover{
+   color: rgb(100, 7, 0); 
+   background-color: black;
 }
