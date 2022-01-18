@@ -4,7 +4,20 @@
     list-style: none;
 }
 .Navigatie-bovenaan{
-    background-color: black;  
-    color: white;
-    
+    background-color: rgb(68, 32, 32); 
 }
+body{
+margin: 0%;
+padding: 0%;
+background: #522626;
+}
+
+.Search-box{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Navigatie-bovenaan a {
+color: rgb(255, 255, 255);
+}
+
